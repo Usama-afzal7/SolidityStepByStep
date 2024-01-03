@@ -1,0 +1,87 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "userName",
+						"type": "string"
+					},
+					{
+						"internalType": "uint8",
+						"name": "userAge",
+						"type": "uint8"
+					}
+				],
+				"name": "store",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice Contracts/VariablesandData.sol": "VariablesandData"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice Contracts/VariablesandData.sol": {
+			"keccak256": "0xea3cdc5e413aa81743c027ef8e562d30caa93b9217e276411af529d344d6e902",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e8a31cb6f1eced7f5bdbe5bacf45c1504f153313077782057ec4d7b1d73f1e26",
+				"dweb:/ipfs/QmRNDXpH9LLxhrkmVDETmcn9WMomyGufAWZ1xiZWpYjk1a"
+			]
+		}
+	},
+	"version": 1
+}
