@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "calcArea",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_length",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_width",
+						"type": "uint256"
+					}
+				],
+				"name": "storeInfo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice Contracts/AreaofRectangle.sol": "AreaofRectangle"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice Contracts/AreaofRectangle.sol": {
+			"keccak256": "0xf01bf4b86a7af545da5922dcd2a7a43c9963d0657df1ab06c2f18a72c3ded0f2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://71cff7da2c19dbd3eea7373fed4982c6f9ea50399fc2a044afa599cce1388606",
+				"dweb:/ipfs/QmfBSGvgMS8pfbtyNoeY1sZNfthpnssGXQt41Tvnkt1Lr7"
+			]
+		}
+	},
+	"version": 1
+}
