@@ -1,13 +1,12 @@
 ```markdown
 # Learning Solidity
 
-This repository is dedicated to my journey of learning Solidity, a high-level, statically-typed, and contract-oriented programming language designed for implementing smart contracts[2][7]. 
+This repository is dedicated to my journey of learning Solidity, a high-level, statically-typed, and contract-oriented programming language designed for implementing smart contracts. 
 
 ## About Solidity
+Solidity was introduced in 2014 and has since become the de facto standard for writing smart contracts for the Ethereum blockchain. It is influenced by Python, C++, and JavaScript, and runs on the Ethereum Virtual Machine (EVM). 
 
-Solidity was introduced in 2014 and has since become the de facto standard for writing smart contracts for the Ethereum blockchain[1]. It is influenced by Python, C++, and JavaScript, and runs on the Ethereum Virtual Machine (EVM)[2][7]. 
-
-Smart contracts written in Solidity are responsible for storing all of the programming logic that controls the execution of transactions and the management of an application's state[4]. Solidity supports complex user-defined types, libraries, and inheritance[2][4]. 
+Smart contracts written in Solidity are responsible for storing all of the programming logic that controls the execution of transactions and the management of an application's state. Solidity supports complex user-defined types, libraries, and inheritance. 
 
 ## Purpose of This Repository
 
